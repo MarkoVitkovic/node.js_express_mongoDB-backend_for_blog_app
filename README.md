@@ -1,4 +1,4 @@
-# Expense Tracker
+# Blog App - Backend
 > This project is backend for blog app wich I will build in react.
 
 ## Table of contents
