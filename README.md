@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General info
-connected to database on mongodb, full and finish backend. Feel free to download or clone this repo.
+Connected to database on mongodb, full and finish backend. Feel free to download or clone this repo.
 
 ## Screenshots
 ![](https://github.com/MarkoVitkovic/node.js_express_mongoDB-backend_for_blog_app/blob/master/img1.png)
