@@ -41,7 +41,7 @@ To-do list:
 Project is: _finished_
 
 ## Inspiration
-Credits: [80/20 Coding](https://www.youtube.com/user/TechGuyWeb), thanks for awesome help, whit him I learn some amazing things. Such as how to establish server, how to make html requests and how to make model. 
+Credits: [80/20 Coding](https://www.youtube.com/user/TechGuyWeb), thanks for awesome help, whith him I learned some amazing things. Such as how to establish server, how to make html requests and how to make model. 
 
 ## Contact
 Created by [Marko Vitkovic](https://github.com/MarkoVitkovic) - feel free to contact me!
